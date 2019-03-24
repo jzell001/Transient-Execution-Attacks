@@ -1,5 +1,7 @@
+Credit for this work goes to Felix Wu and can be found here: https://github.com/flxwu/spectre-attack-demo
+
 # Spectre Attack Demo (i5-3320M and Intel Xeon v3)
-This shows a Proof of Concept Exploit demonstrating the [Spectre](https://spectreattack.com/) attack. Credit for this work goes to: https://github.com/flxwu/spectre-attack-demo
+This shows a Proof of Concept Exploit demonstrating the [Spectre](https://spectreattack.com/) attack. 
 
 ## Exploiting Speculative Execution
 According to the Spectre paper,
