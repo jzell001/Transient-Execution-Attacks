@@ -1,3 +1,5 @@
+Credit for this work goes to the Institute of Applied Information Processing and Communications (IAIK) https://www.iaik.tugraz.at/ and can be found here: https://github.com/IAIK/meltdown
+
 # Meltdown Proof-of-Concept
 
 This repository contains several applications, demonstrating the [Meltdown bug](https://meltdownattack.com). For technical information about the bug, refer to the paper: 
