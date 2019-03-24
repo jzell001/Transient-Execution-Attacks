@@ -1,4 +1,4 @@
-Credit for this work goes to Ryan Crosby and can be found here: https://github.com/crozone/SpectrePoC
+Credit for this work goes to Ryan Crosby (crzone) and can be found here: https://github.com/crozone/SpectrePoC
 
 # SpectrePoC
 
