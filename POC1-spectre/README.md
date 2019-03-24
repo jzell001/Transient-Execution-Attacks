@@ -1,5 +1,5 @@
 # Spectre Attack Demo (i5-3320M and Intel Xeon v3)
-This shows my own try of Proof of Concept Exploit demonstrating the [Spectre](https://spectreattack.com/) attack. Unfortunately, I have been able to reproduce it smoothly both on my local laptop and on my AWS Server.
+This shows a Proof of Concept Exploit demonstrating the [Spectre](https://spectreattack.com/) attack. Credit for this work goes to: https://github.com/flxwu/spectre-attack-demo
 
 ## Exploiting Speculative Execution
 According to the Spectre paper,
