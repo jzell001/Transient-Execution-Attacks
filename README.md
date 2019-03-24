@@ -5,5 +5,5 @@ This work is a combination of other publicly available Proof of Concepts (POCs) 
 
 Links to the original work can be found in the README files of each folder.
 
-The purpose of this project is to try to create a common repository for these types of attacks and hopefully build upon the original work in a meaningful manner.
+The purpose of this project is to create a common repository for these types of attacks and hopefully build upon the original work in a meaningful manner.
 
