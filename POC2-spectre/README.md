@@ -1,6 +1,8 @@
+Credit for this work goes to Ryan Crosby and can be found here: https://github.com/crozone/SpectrePoC
+
 # SpectrePoC
 
-Proof of concept code for the Spectre CPU exploit. Credit for this work goes to: https://github.com/crozone/SpectrePoC
+Proof of concept code for the Spectre CPU exploit. 
 
 ## Attribution
 
