@@ -1,6 +1,6 @@
 # SpectrePoC
 
-Proof of concept code for the Spectre CPU exploit.
+Proof of concept code for the Spectre CPU exploit. Credit for this work goes to: https://github.com/crozone/SpectrePoC
 
 ## Attribution
 
